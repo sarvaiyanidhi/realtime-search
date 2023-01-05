@@ -72,12 +72,12 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
-  gem "faker"
 end
 
 
 # Search gems
 gem "searchkick"
-gem "elasticsearch"
+gem "elasticsearch", '~> 7.0'
+gem "faker"
 
 gem "foreman"
