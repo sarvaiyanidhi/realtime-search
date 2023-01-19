@@ -124,7 +124,7 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     foreman (0.87.2)
-    globalid (1.0.0)
+    globalid (1.0.1)
       activesupport (>= 5.0)
     hashie (5.0.0)
     i18n (1.12.0)
